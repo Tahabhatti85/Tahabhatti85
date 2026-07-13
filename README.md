@@ -38,7 +38,7 @@
 
 * GitHub: **github.com/Tahabhatti85**
 * LinkedIn: **[(https://www.linkedin.com/in/taha-shafiq-162aa3421?utm_source=share_via&utm_content=profile&utm_medium=member_android)]**
-* Email: **[(tahabhatti085@gmail.com)]**
+* Email: **[(tahabhatti85@gmail.com)]**
 
 ---
 
