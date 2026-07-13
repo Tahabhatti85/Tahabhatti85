@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Taha Shafiq
 
-<!--
-**Tahabhatti85/Tahabhatti85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Software Engineering Student**
+💻 **Flutter Developer** | 🤖 **AI Enthusiast** | 🚀 **Software Engineer in Progress**
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AI-powered SaaS applications
+* Flutter mobile applications
+* Real-world software engineering projects
+
+## 🌱 Currently Learning
+
+* Flutter & Dart
+* Firebase & SQLite
+* REST APIs
+* AI Integration
+* System Design & Software Architecture
+
+## 🎯 Career Goal
+
+* Aspiring **AI Engineer**, passionate about building intelligent systems and solving real-world problems with Artificial Intelligence.
+
+## 💻 Tech Stack & Tools
+
+* **Languages:** Dart, C#, JavaScript, SQL
+* **Frameworks:** Flutter, .NET
+* **Databases:** SQLite, Firebase, SQL Server, MySQL
+* **Tools:** Git, GitHub, VS Code, Android Studio, Visual Studio, Postman
+
+## 🤝 Open to Collaborate On
+
+* Flutter Projects
+* Open Source Contributions
+* AI & Software Engineering Projects
+
+## 📫 How to Reach Me
+
+* GitHub: **github.com/Tahabhatti85**
+* LinkedIn: **[(https://www.linkedin.com/in/taha-shafiq-162aa3421?utm_source=share_via&utm_content=profile&utm_medium=member_android)]**
+* Email: **[(tahabhatti085@gmail.com)]**
+
+---
+
+⭐ *Building practical software solutions today while working toward becoming an AI Engineer.*
